@@ -1,0 +1,369 @@
+Name,Genus,Species,Collected_By,Isolated_By,Identified_By,Deposited_By,Deposit_Date
+CCMP1039,Thalassiosira,tumida,,"Fryxell,G",,"Wood,M",11/30/1984
+CCMP1040,Thalassiosira,tumida,,"Fryxell,G",,"Wood,M",11/30/1984
+CCMP1051,Thalassiosira,weissflogii,"York,R","York,R","Johansen,J","Walsh,D",8/15/1989
+CCMP1295,Arthrospira,platensis,,,"Desikachary,TV","Lewin,R",2/1/1991
+CCMP1328,Porphyridium,cruentum,"Lewin,R","Lewin,R",,"Guillard,R (WHOI)",
+CCMP1335,Thalassiosira,pseudonana,"Guillard,R","Guillard,R",,"Guillard,R (WHOI)",9/8/1958
+CCMP1336,Thalassiosira,weissflogii,"Guillard,R","Guillard,R",,"Guillard,R",
+CCMP2133,Tolypothrix,sp.,"Rolde,N","Andersen,RA",,"Andersen,RA",11/23/2001
+CCMP222,Chlamydomonas,sp.,"Guillard,R","Guillard,R",,"Guillard,R",
+CCMP235,Chlamydomonas,sp.,"Guillard,R","Guillard,R","Schlosser,UG","Guillard,R",
+CCMP243,Chlorella,autotrophica,"Lewin,R","Lewin,R",,"Lewin,R",
+CCMP3264,Thalassiosira,rotula,Vectoria crew,"DiPrisco,C","Sarno,D","Minucci,C and Sarno,D",9/10/2009
+CCMP3362,Thalassiosira,rotula,"Rines,J","Whittaker,K","Whittaker,K","Rynearson,T",5/22/2012
+CCMP1001,Thalassiosira,oceanica,"Murphy,L and Hoar,P","Hoar,P and Murphy,L",,"Murphy,L",1/4/1985 
+CCMP1004,Thalassiosira,oceanica,"Brzezinski,M","Brzezinski,M",,"Brzezinski,M",1/14/1983 
+CCMP1005,Thalassiosira,oceanica,"Guillard,R","Guillard,R","Hasle,G","Guillard,R",12/11/1958 
+CCMP1006,Thalassiosira,oceanica,"Swift,E","Swift,E",,"Murphy,L",1/1/1976 
+CCMP1007,Thalassiosira,pseudonana,"Wilson,D",,,,
+CCMP1010,Thalassiosira,weissflogii,"Hargraves,P","Hargraves,P","von Dassow,P","Hargraves,P",
+CCMP1011,Thalassiosira,pseudonana,"Haines,K","Haines,K",,,
+CCMP1012,Thalassiosira,pseudonana,"Davis,R","Guillard,R and Davis,R",,"Guillard,R (WHOI)",1/1/1965 
+CCMP1013,Thalassiosira,pseudonana,,"Paasche,E",,,
+CCMP1014,Thalassiosira,pseudonana,,"Jordan,J",,,
+CCMP1015,Thalassiosira,pseudonana,,,,"Walsh,D",1/29/1985 
+CCMP1047,Thalassiosira,weissflogii,"Hargraves,P","Hargraves,P","Hargraves,P","Hargraves,P",
+CCMP1048,Thalassiosira,weissflogii,"Guillard,R","Guillard,R",,"Guillard,R",
+CCMP1049,Thalassiosira,weissflogii,"Hargraves,P","Hargraves,P","Hargraves,P","Hargraves,P",
+CCMP1050,Thalassiosira,weissflogii,"Dodson,A","Dodson,A",Cox,"Thomas,W",5/1/1982 
+CCMP1052,Thalassiosira,weissflogii,"Syvertsen,E","Syvertsen,E",,,
+CCMP1053,Thalassiosira,weissflogii,"Sampyo,M","Sampyo,M",,,
+CCMP1084,Vaucheria,bursata,"Christensen,T","Christensen,T","Christensen,T","Andersen,RA",1/2/1991 
+CCMP1093,Thalassiosira,minuscula,"Dodson,A","Dodson,A","Alverson,A","Thomas,W",5/12/1982 
+CCMP1096,Thalassiosira,nordenskioldii,"Apollonio,S","Selvin,R","Medlin,L","Selvin,R",3/9/1988 
+CCMP1100,Thalassionema,sp.,"Warner,R","Fryxell,G","Medlin,L","Fryxell,G",8/5/1982 
+CCMP1102,Fragilariopsis,cylindrus,"Warner,R","Fryxell,G","Moniz,M and Kaczamarska,I","Fryxell,G",8/5/1982 
+CCMP111,Alethocladus,corymbosus,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP112,Alexandrium,affine,,"Bravo,I",Isabel Bravo,"Fraga,S",11/19/1985 
+CCMP113,Alexandrium,minutum,"Bravo,I","Bravo,I","Steidinger,K",VIGO,10/24/1988 
+CCMP1144,Pinguiococcus,pyrenoidosus,"Polk,E","Polk,E","Andersen,RA","Polk,E",11/14/1984 
+CCMP1145,Pelagomonas,calceolata_cf,"Brand,L","Brand,L",,"Brand,L",
+CCMP1168,Chroomonas,mesostigmatica_cf,,,"Hill,DRA","Hill,DRA",12/1/1990 
+CCMP1178,Rhodomonas,abbreviata_cf,"Keller,M","Keller,M","Yoon,H-S","Keller,M",9/14/1988 
+CCMP1180,Hemiselmis,andersenii,"Provasoli,L","Provasoli,L","Lane,C","Provasoli,L",6/30/1988 
+CCMP1181,Hemiselmis,cryptochromatica,"Selvin,R","Selvin,R","Lane,C","Selvin,R",5/13/1988 
+CCMP1188,Unid.,Phaeophyceae,"Moe,R",,,"Moe,R",10/1/1990 
+CCMP1198,Pycnococcus,provasolii,"Brand,L",,"Fawley,M","Provasoli,L",3/1/1982 
+CCMP120,Amphidinium,gibbosum,"Taylor,DL","Taylor,DL","Daugbjerg,N",Taylor via Provasoli,
+CCMP1203,Pycnococcus,provasolii,"Murphy,L","Murphy,L","Guillard,R",,
+CCMP1204,Pseudohaptolina,arctica,"Apollonio,S","Selvin,R",,"Selvin,R",4/9/1990 
+CCMP1205,Chloropicon,primus,"Swift,D","Swift,D",Lopes dos Santos et al,,
+CCMP1214,Pelagomonas,calceolata,"Lewin,R","Lewin,R","Andersen,RA","Jordan,J",1/26/1983 
+CCMP1220,Prasinoderma,coloniae,,,"Andersen,RA","Pintner,I",2/24/1983 
+CCMP1221,Chroomonas,sp.,,,,"Waaland,JR",6/4/1982 
+CCMP1236,Chlamydomonas_cf,sp.,"Alden,M","Thomas,W","Schlosser,UG","Thomas,W",5/14/1986 
+CCMP1243,Rhizochromulina,marina_cf,"Provasoli,L","Provasoli,L",,"Provasoli,L",7/14/1982 
+CCMP126,Amphora,coffeaeformis,"Starr,T","Starr,T","Starr,T","Lewin,J",12/2/1986 
+CCMP127,Amphora,coffeaeformis,"Lewin,J and R","Lewin,J and Lewin,R","Lewin,J","Lewin,J",12/2/1986 
+CCMP1276,Phyllophora,antarctica,"Moe,R","Moe,R","Moe,R","Moe,R",
+CCMP1279,Pavlova,gyrans,,,,"Andersen,RA",1/2/1991 
+CCMP1280,Emiliania,huxleyi,"Valois,F","Valios,F","Andersen,RA","Valios,F",10/10/1990 
+CCMP1281,Skeletonema,japonicum,"Cullen,J","Andersen,RA","Zingone,A & Sarno,D","Andersen,RA",1/2/1991 
+CCMP1291,Unid.,Phaeophyceae,"Moe,R","Moe,R",,"Moe,R",10/1/1990 
+CCMP1302,Dunaliella,tertiolecta_cf,,,"Lewin,R","Lewin,R",2/1/1991 
+CCMP1314,Amphidinium,carterae,"Guillard,R","Guillard,R","Guillard,R","Guillard,R",
+CCMP1315,Chaetoceros,calcitrans,"Umebayashi,O","Umebayashi,O",,"Booth,B",2/17/1983 
+CCMP1316,Chaetoceros,muelleri,Law,,"Johansen,J","Langdon,C",7/11/1981 
+CCMP1317,Chaetoceros,neogracile,,,,"Jordan,J (SIO,FCRG)",
+CCMP132,Arcocellulus,mammifer,,"VonStosch,H",,"VonStosch,H",5/13/1984 
+CCMP1320,Dunaliella,tertiolecta,,,,CCAP,
+CCMP1323,Isochrysis,galbana,,"Parke,M","Parke,M",,
+CCMP1324,Tisochrysis,lutea,"Martin,J","Haines,K",,,
+CCMP1325,Diacronema,lutheri,"Droop,M","Droop,M",,"Droop,M",
+CCMP1329,Prorocentrum,minimum,"Pintner,I",,,"Pintner,I",
+CCMP133,Ascoseira,mirabilis,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP1331,Scrippsiella,trochoidea,,"Parke,M","Parke,M","Provasoli,L",
+CCMP1374,Phaeocystis,antarctica,"Putt,M","Brett,S and Jacobson,D","Jacobson,D","Jacobson,D",5/1/1991 
+CCMP1383,Polarella,glacialis,"Stoecker,D, Putt, M, and Moisan,T","Jacobson,D","Montresor, Procaccini and Stoecker","Jacobson,D",6/1/1991 
+CCMP1384,Pterosperma,sp.,"Polans,L",,"Jacobson,D","Jacobson,D",7/1/1991 
+CCMP1390,Pavlova,sp.,"Provasoli,L","Provasoli,L","Keller,M","Provasoli,L",7/14/1982 
+CCMP1395,Pelagococcus,sp.,"Provasoli,L","Provasoli,L",,"Provasoli,L",3/1/1982 
+CCMP140,Asteromonas,gracilis,"Norris,R",,,"Waaland,JR",7/19/1982 
+CCMP1404,Imantonia_cf,sp.,"Keller,M","Keller,M","Edvardsen,B and Eikrem,W","Keller,M",8/1/1991 
+CCMP1408,Chlorarachnion,sp.,"Keller,M","Keller,M",,"Keller,M",8/1/1991 
+CCMP1410,Pelagospilus,aureus,"Keller,M","Keller,M","Andersen,R and Graf,L","Keller,M",8/1/1991 
+CCMP1413,Prasinoderma,coloniale,"Keller,M","Keller,M","Marin, B and Melkonian, M","Keller,M",8/1/1991 
+CCMP1416,Pavlova,sp.,"Keller,M","Keller,M","Andersen,RA","Keller,M",8/1/1991 
+CCMP1429,Pelagococcus,subviridis,"Booth,B","Lewin,J",,,
+CCMP1436,Mantoniella,sp.,"Moisan,T",,"Jacobson,D","Jacobson,D",1/7/1992 
+CCMP147,Triceration,dubium,"Brand,L","Brand,L","Ashworth,M","Brand,L",
+CCMP148,Bodanella,lauterbornii,,"Muller,D",,"Andersen,RA",1/2/1991 
+CCMP1491,Eutreptiella,pomquetensis,"Sequel,M",,"McLachlan, Seguel and Fritz; Marin et al.","McLachlan,J",5/28/1992 
+CCMP1499,Desmarestia,anceps_cf,"Moe,R",,,"Moe,R",
+CCMP1507,Aureoumbra,lagunensis,"Stockwell,D","Andersen,RA","Andersen,RA","Andersen,RA",9/22/1992 
+CCMP1510,Aureoumbra,lagunensis,"Stockwell,D","Andersen,RA","Andersen,RA","Andersen,RA",9/22/1992 
+CCMP1511,Chlorosarcinopsis,gelatinosa,"Palacios,O","Andersen,RA","Deason,T","Andersen,RA",9/22/1992 
+CCMP1516,Emiliania,huxleyi,"Polans,L",,"Jacobson,D",,9/28/1992 
+CCMP1530,Rhodosorus,sp.,"Polans,L",,"Jacobson,D","Jacobson,D",11/9/1992 
+CCMP1538,Aurearena,cruciata,"O'Kelly,C","O'Kelly,C","Yoon,HS","O'Kelly,C",12/29/1992 
+CCMP1545,Micromonas,pusilla,,"Parke,M",,"Suttle,C",2/17/1993 
+CCMP157,Ceratocorys,horrida,"Sweeney,B","Sweeney,B","Sweeney,B","Sweeney,B",7/16/1985 
+CCMP1581,Asterionellopsis,glacialis,"Hargraves,P","Hargraves,P","Hargraves,P","Hargraves,P",4/1/1993 
+CCMP1587,Thalassiosira,weissflogii,"Mrs.Q. Adnan via Anderson,DM","Hargraves,P","Hargraves,P","Hargraves,P",4/1/1993 
+CCMP1594,Eutreptiella,gymnastica,"Zhang,J","Zhand; re-isolated by Hargraves, P","Milanowski, R","Hargraves,P",4/1/1993 
+CCMP1618,Aurearena,cruciata,"O'Kelly,C","O'Kelly,C","Yoon,H","O'Kelly,C",12/29/1992 
+CCMP1625,Scenedesmus,sp.,"Lesser,M","Lesser,M","Lesser,M","Lesser,M",11/29/1993 
+CCMP1633,Symbiodinium,microadriaticum,Muscatine and Mueller,"Lesser,M","Lesser,M","Lesser,M",10/5/1987 
+CCMP164,Chaetoceros,brevis,"Warner,R",,"Fryxell,G","Fryxell,G",11/20/1990 
+CCMP1641,Dunaliella,sp.,"Wikfors,G",,"Schlosser,UG",,
+CCMP1660,Thalassiosira,weissflogii,,"Pauley,K",,"Pauley,K",2/1/1995 
+CCMP1661,Fibrocapsa,japonica,"Moestrup,O","Moestrup,O","Moestrup,O","Daugbjerg,N",2/1/1995 
+CCMP1662,Nannochloropsis,granulata,"Karlson,B","Karlson,B","Karlson,B and Potter,D","Karlson,B",7/10/1994 
+CCMP1665,Pleurochloridella,botrydiopsis,"O'Kelly,C","O'Kelly,C","O'Kelly,CJ","O'Kelly,C",4/18/1995 
+CCMP1666,Giraudyopsis,stellifera,"O'Kelly,C","O'Kelly,C","O'Kelly,C","O'Kelly,C",4/18/1995 
+CCMP1673,Eugomontia,sacculata,"O'Kelly,C","O'Kelly,C","O'Kelly,CJ","O'Kelly,C",4/18/1995 
+CCMP1676,Ulvella,consociata,"O'Kelly,C","O'Kelly,C","O'Kelly,CJ","O'Kelly,C",4/18/1995 
+CCMP1680,Heterosigma,akashiwo,"Mahoney,J","Mahoney,J","Throndsen,J","Mahoney,J",4/29/1995 
+CCMP1687,Helicotheca,tamesis,"Stirn,J","Brett,S and Stirn,J :95/05/25","Stirn,J","Stirn,J",4/12/1995 
+CCMP1707,Aureococcus,anophagefferens,"Nuzzi,R and Shumway,S","Andersen,RA","Andersen,RA","Andersen,RA",11/29/1995 
+CCMP1715,Skeletonema,dohrnii,"Zeeman,S","Brett,S",Sarno et Kooistra,"Zeeman,S",4/1/1995 
+CCMP1717,Asterionellopsis,glacialis,"Zeeman,S","Brett,S","Brett,S","Zeeman,S",4/1/1995 
+CCMP173,Chaetoceros,decipiens,"Claus,W","Claus,W; reisolated by N. Poulton (21Jul09)",,"Claus,W",10/15/1984 
+CCMP1751,Chaetoceros,dichaeta,"Rynearson,T","Crawford,R","Crawford,R","Medlin,L",10/25/1996 
+CCMP1756,Pelagomonas,calceolata,,Lewin,"Andersen,RA","Guillard,R",
+CCMP1757,Prymnesium,polylepis,"Edler,L","Guillard,R","Thomsen,H","Guillard,R",8/5/1988 
+CCMP1767,Apedinella,radians,"Moestrup,O","Moestrup,O","Moestrup,O","Larsen,N-H",5/22/1997 
+CCMP1771,Alexandrium,tamarense,,"Adams,I",,"Guillard,R",7/14/1997 
+CCMP1773,Alexandrium,ostenfeldii,"Hansen,PJ","Hansen,P Juel","Hansen,PJ","Larsen,N-H",8/19/1997 
+CCMP1776,Microchloropsis,salina,"Droop,M","Droop,M","Hibberd,DJ","Turner,M",9/25/1997 
+CCMP1779,Nannochloropsis,oceanica,,Belcher,Vieler et al.,"Turner,M",9/25/1997 
+CCMP1830,Pfiesteria,piscicida,"Herb,T and Stewart,J","Andersen,RA","Oldach,D","Andersen,RA",3/11/1998 
+CCMP1831,Pfiesteria,piscicida,"Herb,T and Stewart,J","Andersen,RA","Oldach,D","Andersen,RA",3/11/1998 
+CCMP1850,Aureococcus,anophagefferens,"Nuzzi,R","Andersen,RA","Bailey,JC and Andersen,RA","Andersen,RA",10/20/1998 
+CCMP1856,Leptocylindrus,hargravesii,"Hargraves,P","Hargraves,P","Nanjappa,D, Koostra, W and Zingone,A","Hargraves,P",9/24/1998 
+CCMP1868,Storeatula,sp.,"Waller,R","Waller,R","Hill,DRA","Deane,J",1/15/1999 
+CCMP1870,Heterosigma,akashiwo,"Gregorio,D","Andersen,RA","Connell,L","Gregorio,D",1/15/1999 
+CCMP1907,Pylaiella,littoralis,,,,"Loiseaux-de Goer,S",12/1/1999 
+CCMP1912,Heterosigma,akashiwo,"Horner,R","Horner,R","Horner,R and Connell,L","Connell,L",6/10/1999 
+CCMP1923,Dunaliella,sp.,"Lewin,R","Lewin,R","Lewin,R","Lewin,R",9/23/1999 
+CCMP1930,Ectocarpus,sp.,,"Andersen,RA","Mueller,D","Andersen,RA",6/30/1999 
+CCMP1952,Pyramimonas,sp.,"Sexton,J and Riggens,T","Sexton,J","O'Kelly,CJ","Sexton,J",12/23/1999 
+CCMP1984,Aureococcus,anophagefferens,"Cosper,L","Cosper,L","Cosper,L","Berg,GM",10/18/2000 
+CCMP2000,Phaeocystis,rex,"Balch,W","Andersen,RA",,"Andersen,RA",1/18/2001 
+CCMP2002,Ochrosphaera,neapolitana,"Rolde,N","Andersen,RA","Probert,I","Andersen,RA",1/19/2001 
+CCMP2021,Lingulodinium,polyedra,,"Hastings and Sweeney,B",,"Guillard,R",2/14/2001 
+CCMP2045,Baffinella,frigidus,"Lovejoy,C","Lovejoy,C","Lane,C","Lovejoy,C",4/19/2001 
+CCMP2046,Mesostigma,viride,"Suda,S","Suda,S","Inouye,I","Kawachi,M",4/24/2001 
+CCMP2049,Chattonella,marina,"Aramaki,T","Aramaki,T",,"Kawachi,M",4/24/2001 
+CCMP2052,Chattonella,marina,"Toriumi,S","Toriumi,S","Kawachi,M","Kawachi,M",4/24/2001 
+CCMP2057,Gymnochlora,stellata,"Lobban,C","Nakayama,T","Ishida,K","Ishida,K",5/3/2001 
+CCMP2078,Pinguiococcus,pyrenoidosus,"Polk,E","Andersen,RA","Andersen,RA","Andersen,RA",12/4/2001 
+CCMP2084,Attheya,septentrionalis,"Lovejoy,C","Lovejoy,C","Andersen,RA","Lovejoy,C",7/20/2001 
+CCMP2087,Pyramimonas,sp.,"Lovejoy,C","Lovejoy,C",,"Lovejoy,C",7/20/2001 
+CCMP2088,Polarella,glacialis,"Lovejoy,C","Lovejoy,C",,"Lovejoy,C",7/20/2001 
+CCMP2092,Skeletonema,marinoi,,,"Sarno,D","Buttino,I",9/7/2001 
+CCMP2111,Chloropicon,maureeniae,"Waller,R","Andersen,RA",Lopes dos Santos et al.,"Andersen,RA",11/7/2001 
+CCMP212,Attheya,sp.,"Apollonio,S","Selvin,R","Andersen,R","Selvin,R",3/31/1988 
+CCMP2135,unidentified,sp.,"Andersen,RA","Andersen,RA",,"Andersen,RA",11/23/2001 
+CCMP214,Attheya,longicornis,"Swift,D","Swift,D","Andersen,RA","Swift,D",
+CCMP2157,Skeletonema,tropicum,"Rolde,N","Andersen,RA","Andersen,RA","Andersen,RA",11/23/2001 
+CCMP217,Chattonella,subsalsa,"Gardiner,WT",,,"Gardiner,WE",
+CCMP218,Chattonella,sp.,"Okaichi,T","Okaichi,T",,"Thomas,W",5/12/1982 
+CCMP219,Chlamydomonas,euryale,"Li,Ming Ren","Li,Ming Ren",,"Lewin,R",2/6/1984 
+CCMP2191,Chattonella,subsalsa,"Whereat,E","Zhang,Y","Zhang,Y and Coyne,K","Zhang,Y",1/30/2002 
+CCMP220,Dunaliella,sp.,,,"Schlosser,UG","Provasoli,L",6/1/1982 
+CCMP2222,Alexandrium,andersonii,,"Montresor,M",,"Ianora,A",
+CCMP2256,Desmodesmus,ultrasquamatus,"Fawley, M and Fawley, K","Fawley, M and Fawley, K","Fawley,M and Fawley,K","Fawley,M",1/23/2003 
+CCMP2276,unidentified,sp.,"Fawley, M and Fawley, K","Fawley, M and Fawley, K",,"Fawley,M",9/26/2003 
+CCMP2279,unidentified,sp.,"Fawley, M and Fawley, K","Fawley, M and Fawley, K",,"Fawley,M",9/25/2003 
+CCMP2280,unidentified,sp.,"Fawley, M and Fawley, K","Fawley, M and Fawley, K",,"Fawley,M",9/25/2003 
+CCMP2281,Karenia,brevis,,"Rogers,John","Rogers,John and Leb lond,Jeff","Eaton,Richard",2/27/2003 
+CCMP2288,Halochlorococcum,moorei,"O'Kelly,C","O'Kelly,CJ","O'Kelly,C","O'Kelly,C",4/30/2003 
+CCMP2292,Bolbocoleon,piliferum,"O'Kelly,C","O'Kelly,C","O'Kelly,C","O'Kelly,C",4/30/2003 
+CCMP2293,Baffinella,frigidus,"Lovejoy,C","Lovejoy,C","Lovejoy,C","Lovejoy,C",3/5/2003 
+CCMP2297,unidentified,sp.,"Lovejoy,C","Lovejoy,C",,"Lovejoy,C",3/5/2003 
+CCMP2315,Bolbocoleon,piliferum,"O'Kelly,C","O'Kelly,C",,"O'Kelly,C",10/2/2003 
+CCMP2316,Bolbocoleon,piliferum,"O'Kelly,C",,"O'Kelly,C","O'Kelly,C",10/15/2003 
+CCMP2317,Bolbocoleon,piliferum,"O'Kelly,C","O'Kelly,C","O'Kelly,C","O'Kelly,C",9/26/2003 
+CCMP2318,Ulvella,pseudorepens,"O'Kelly,C","O'Kelly,C","O'Kelly,C","O'Kelly,C",9/26/2003 
+CCMP2319,Ochlochaete,hystrix,"O'Kelly,C","O'Kelly,C","O'Kelly,C","O'Kelly,C",9/26/2003 
+CCMP233,Chlamydomonas,sp.,,,"Schlosser,UG","Waaland,JR",7/19/1982 
+CCMP2331,Ulvella,viridis_cf,,"O'Kelly,C",,"O'Kelly,C",9/26/2003 
+CCMP2335,Ulvella,leptochaete,,,,"O'Kelly,C",10/21/2003 
+CCMP2349,Arachnochrysis,demoulinii,"Demoulin,V","Andersen,RA","Andersen,RA","Andersen,RA",11/17/2003 
+CCMP236,Chlamydomonas,sp_cf,"Lewin,R","Lewin,R","Schlosser,UG","Guillard,R",
+CCMP238,Chlorarachnion,reptans,"Norris,R","Norris,R",,"Waaland,JR",
+CCMP2393,Heterosigma,akashiwo,"Whereat,E","Zhang,Y","Zhang,Y and Coyne,K","Zhang,Y",2/13/2004 
+CCMP2396,Entomoneis,sp.,"Lovejoy,C","Lovejoy,C","Lovejoy,C","Lovejoy,C",3/12/2004 
+CCMP240,Lotharella,vacuolata,"Polk,E","Polk,E","Ota,S and Ishida,K","Polk,E",11/8/1984 
+CCMP242,Bigelowiella,longifila,"Cook,P","Cook,P","Ota,S Ueda,K  and Ishida","Cook,P (WHOI)",
+CCMP245,Schizochlamydella,capsulata,"Erickson,S","Erickson,S",,"Guillard,R (WHOI)",
+CCMP2466,Symbiodinium,goreauri,"Chang,S","Chang,S","LaJuenesse,T","LaJuenesse,T",7/30/2004 
+CCMP2467,Symbiodinium,microadriaticum,"Trench,R","Trench,R","LaJuenesse,T","LaJuenesse,T",7/30/2004 
+CCMP2468,Symbiodinium,kawagutii,"York,R","York,R","LaJuenesse,T",LaJuenesse.T,7/30/2004 
+CCMP2471,Florenciella,parvula,,"LeGall,F","Eikrem,W","Vaulot,D",8/3/2004 
+CCMP2556,Symbiodinium,trenchii,,"Cofroth,MA",LaJeunesse,"Coffroth,MA",6/8/2005 
+CCMP2564,Geminigera,cryophila,"Stoecker, DK and Gustafson, DE","Stoecker,D and Johnson,M","Johnson,M","Stoecker,DK and Johnson,MD",7/6/2005 
+CCMP2675,Bostrychia,flagellifera,"West,J","West,J","West,J","West,J",8/6/2006 
+CCMP2677,Bostrychia,radicans,"West,J","West,J","West,J","West,J",6/19/2006 
+CCMP268,Chroomonas,pauciplastida,"Provasoli,L","Provasoli,L",Butcher,"Provasoli,L",9/29/1982 
+CCMP269,Chroomonas,mesostigmatica,"Matheson,G","Guillard,R","Hill,DRA","Pintner,I",2/24/1983 
+CCMP270,Chroomonas,sp.,"Stoecker,D","Keller,M","Hill,DRA",,
+CCMP2710,Thalassiosira,oceanica,"Stirn,J","Stirn,J","Stirn,J","Beaudoin,D",8/22/2006 
+CCMP2712,Guillardia,theta,"Guillard,R","Guillard,R","Hill,D & Wethebee,R","Andersen,RA",8/28/2006 
+CCMP2743,Navicula,glaciei,"Lee,P & Neeley,A","Andersen,RA","Andersen,RA","Andersen,RA",9/14/2006 
+CCMP2744,Navicula,glaciei,"Lee,P & Neeley,A","Andersen,RA","Andersen,RA","Andersen,RA",9/14/2006 
+CCMP2745,Synedropsis,sp.,"Karentz,D & Lee,P","Andersen,RA","Andersen,RA","Andersen,RA",9/14/2006 
+CCMP2746,Navicula,sp.,"Karentz,D & Lee,P","Andersen,RA",,"Andersen,RA",9/14/2006 
+CCMP2747,Synedropsis,sp.,"Karentz,D & Lee,P","Andersen,RA","Andersen,RA","Andersen,RA",9/14/2006 
+CCMP2749,unidentified,sp.,"Lee,P & Neeley,A","Andersen,RA",,"Andersen,RA",9/14/2006 
+CCMP275,Rhodomonas,sp.,"Hill,DRA","Hill,DRA","Hill,DRA","Hill,DRA",12/1/1990 
+CCMP2755,Bigelowiella,natans,,"Andersen,R",,"Andersen,RA",10/16/2006 
+CCMP2757,Bigelowiella,natans,,"Andersen,R",,"Andersen,RA",1/24/2007 
+CCMP2808,Heterosigma,akashiwo,"Strom,S","Strom,S","Strom,S","Strom,S and Frederickson,K",2/28/2007 
+CCMP284,Chrysochromulina,herdlensis,"Waters,R","Waters,R","Taylor,FJR","Acreman,J (NEPCC)",10/18/1984 
+CCMP2844,Catenella,caespitosa,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2848,Catenella,nipae,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2850,Catenella,nipae,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2852,Hypnea,sp.,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2856,Catenella,caespitosa,"Rueness,J","Rueness,J","West,J","West,J",5/20/2007 
+CCMP2858,Catenella,sp.,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2868,Acrochaetium,sp.,"West,JA","West,J","West,J","West,J",5/20/2007 
+CCMP2878,Chromera,velia,"Starke-Peterkovic and Edwards,L","Moore,R",Moore et al.,"Moore,R",11/9/2007 
+CCMP2907,Unid.,Phaeophyceae,"Andersen,RA","Andersen,RA",,"Andersen,RA",5/26/2007 
+CCMP291,Chrysochromulina,parva,"Kugrens,P",,"Kugrens,P","Andersen,RA",1/2/1991 
+CCMP2950,Chrysoreinhardia,nov.sp.,"Kawachi,M","Andersen,R",,,
+CCMP300,Chrysotila,sp.,"Pringsheim,EG",Pringsheim,"Probert,I","Provasoli,L",6/1/1982 
+CCMP302,Heterosigma,akashiwo,Hayden,"Chang,F","Connell,L","Chang,F",8/10/1984 
+CCMP3057,Pseudokephyrion,sp.,"Boenigk,J","Boenigk,J","Boenigk,J","Boenigk,J",5/2/2008 
+CCMP307,Corethron,hystrix,"Brand,L",,,"Brand,L",
+CCMP3076,Caloglossa,vieillardii,,,,"West,J",4/28/2010 
+CCMP3087,Picocystis,sp.,"Culbertson,C","Poulton,N","Lewin,R","Sexton,J",6/29/2010 
+CCMP3089,Corynoplastis,japonica,"Yokoyama,A","Yokayama, A",,"West,J",4/21/2009 
+CCMP3095,Caloglossa,sp.,"West,J",,"West,J","West,J",12/22/2009 
+CCMP3098,Caloglossa,leprieurii,,,"West,J","West,J",12/22/2009 
+CCMP3108,Caloglossa,monosticha,,"West,J","Kamiya,M","West,J",2/17/2011 
+CCMP3147,Caloglossa,ogasawaraensis,,,Kamiya,"West,J",5/20/2010 
+CCMP3153,Microtalis,aquatica,"Bailey,JC","Bailey,JC","Bailey,JC","Bailey,JC",10/16/2008 
+CCMP316,Crypthecodinium,cohnii,"Provasoli,L","Provasoli,L",,"Provasoli,L",6/1/1982 
+CCMP3189,Chrysocystis,fragilis,"Lobban,C","Andersen,RA","Andersen,RA","Andersen,RA",2/3/2009 
+CCMP3207,Aurearena,cruciata,"Kai,A","Kai,A","Kai,A","Kai,A",5/19/2009 
+CCMP3230,Porphyra,pulchella,"West,J","West,J","West,J","West,J",5/20/2009 
+CCMP3234,Madagascaria,erythrocladiodes,"West,J","West,J","West,J","West,J",5/20/2009 
+CCMP3235,Neorhodella,cyanea,"Billard,C","Fresnel,J","Billard,C","West,J",5/20/2009 
+CCMP324,Rhodomonas,sp.,,,"Yoon,H-S","Waaland,JR",6/4/1982 
+CCMP3247,Bostrychia,moritziana,,,,"West,J",5/5/2010 
+CCMP325,Hanusia,phi,"Guillard,R","Guillard,R","Deane,JA","Guillard,R (WHOI)",
+CCMP3250,Porphyra,lucasii,"West, JA","West, J",,"West,J",7/7/2009 
+CCMP326,Proteomonas,sp.,"Provasoli,L","Provasoli,L","Yoon,H-S","Provasoli,L",3/1/1982 
+CCMP3278,Timspurckia,oligopyrenoides,"West,J","West,J","West,J","Yang,E and Yoon,Y",1/27/2010 
+CCMP3279,Ochromonas,danica,,Pringsheim,Pringsheim,"Andersen,RA and UTEX",3/19/2010 
+CCMP329,Cyanophora,paradoxa,"Pringsheim,EG",Pringsheim,,"Provasoli,L",6/1/1982 
+CCMP3310,Prorocentrum,lima,"Keller,M","Thompson,B and Sexton,J",,"Sexton,J",10/18/2011 
+CCMP332,Cyclotella,cryptica,"Guillard,R","Guillard,R",,"Guillard,R (WHOI)",6/6/1956 
+CCMP3323,Fragilariopsis,cylindrus,"Warner,R","Fryxell,G","Moniz,M and Kaczamarska,I","Berg,M",12/21/2011 
+CCMP3327,Goniomonas,avonlea,"Kim,E","Kim,E","Kim,E","Kim,E",
+CCMP3346,Vitrella,brassicaformis,"Miller,K & Mundy,C","Andersen,RA and Moore,R",Obornik et al.,"Sexton,J and Moore,R",3/1/2013 
+CCMP3361,unidentified,sp.,,"Vaulot,D",,"Vaulot,D",7/16/2013 
+CCMP3368,Aureococcus,anophagefferens,"Cosper,L","Cosper,L","Cosper,L","Sexton,J",4/5/2013 
+CCMP337,Cyclotella,meneghiniana,"White,A","White,A",,,
+CCMP3373,Skeletonema,dohrnii,"Lawrence,C","Roche,D.J.","Roche,D.J.","Rynearson,T",5/22/2012 
+CCMP338,Cyclotella,meneghiniana,"Lee,H","Lee,H",,,
+CCMP3390,unidentified,sp.,,"Vaulot,D and Marie D",,"Vaulot,D",11/20/2013 
+CCMP3417,Haematococcus,sp.,"Brown, J., Judge,S., Sexton,J.","Sexton,J","Sexton,J","Sexton,J",12/18/2013 
+CCMP345,Cymatosira,belgica,,,,"VonStosch,H",5/13/1984 
+CCMP3453,Rhodenigma,contortum,"Stavrias,L","West,J","Verbruggen,H and West,J","West,J",3/2/2016 
+CCMP3467,Amorphochlora,amoebiformis,"Ohuchi,J","Poulton,N and Ishida,K","Ishida,K","Sexton,J",1/11/2017 
+CCMP352,Detonula,confervacea,,,,,
+CCMP358,Ditylum,brightwellii,"Brand,L","Brand,L",,"Brand,L",
+CCMP364,Dunaliella,tertiolecta,Foyn,Foyn,,Parke to Provasoli,6/1/1982 
+CCMP367,Dunaliella,sp.,"Dodson,A","Dodson,A",,"Thomas,W",5/12/1982 
+CCMP369,Microchloropsis,salina,"Lewin,R","Lewin,R","Andersen,RA","Lewin,R",4/10/1990 
+CCMP387,Eustigmatos,magnus,,"Flint,E",,"Andersen,RA",1/2/1991 
+CCMP391,Extubocellulus,cribriger,,"VonStosch,H",,"VonStosch,H",5/13/1984 
+CCMP409,Gonyaulax,spinifera_cf,"Lande,R","Lande,R",,"Lande,R",11/1/1986 
+CCMP421,Symbiodinium,voratum,"Chang,F","Chang,F","LaJeunesse,T","Chang,F",8/10/1984 
+CCMP439,Hemiselmis,andersenii,"Provasoli,L",,"Lane,C","Provasoli,L",3/1/1982 
+CCMP441,Hemiselmis,andersenii,,"Provasoli,L","Lane,C","Provasoli,L",3/1/1982 
+CCMP443,Hemiselmis,tepida,,"Provasoli,L","Lane,C","Provasoli,L",3/1/1982 
+CCMP445,Heterocapsa,arctica,"Apollonio,S","Selvin,R","Horiguchi,T","Selvin,R",4/10/1990 
+CCMP448,Heterocapsa,triquetra,"Brand,L","Brand,L",,"Anderson,D",
+CCMP452,Heterosigma,akashiwo,"Conover,R","Conover,R",,,
+CCMP453,Hibberdia,magna,,Belcher,"Andersen,RA","Andersen,RA",1/2/1991 
+CCMP455,Hymenocladiopsis,crustigena,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP463,Tisochrysis,lutea,"Glazer,R",Glazer,,"Davis,M",11/19/1984 
+CCMP466,Laingia,sp.,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP470,unidentified,diatom,"Leighton,D","Dodson,A",,"Thomas,W",5/12/1982 
+CCMP489,Micromonas,commoda,"Palenik,B","Selvin,R",Simon et al,"Selvin,R",11/2/1988 
+CCMP495,Minidiscus,variabilis,"Haines,K","Haines,K","Minuz,M and Kaczamarska,I",,
+CCMP496,Minidiscus,trioculatus,Taylor,Taylor,"Fryxell,G",,
+CCMP504,unidentified,sp.,"Dyck,L","Dyck,L",,"Dyck,L",9/15/1983 
+CCMP505,Nannochloropsis,limnetica,"Hommersand,M","Hedberg,M","Andersen,RA","Hedberg,M",9/17/1986 
+CCMP507,Myriogramme,manginii,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP525,Nannochloropsis,oculata,"Droop,M","Droop,M",,"Guillard,R (WHOI)",3/1/1968 
+CCMP526,Microchloropsis,gaditana,Billard,Billard,"Andersen,RA","Lewin,R",4/10/1990 
+CCMP527,Microchloropsis,gaditana,"Ryther,J","Ryther,J",,"Guillard,R",
+CCMP529,Nannochloropsis,granulata,"Ryther,J","Guillard,R","Andersen,RA","Guillard,R (WHOI)",
+CCMP531,Nannochloropsis,sp.,"Li,Ming Ren","Li,Ming Ren",,"Lewin,R",2/6/1984 
+CCMP532,Microchloropsis,gaditana,"Guillard,R","Guillard,R","Andersen,R","Guillard,R",
+CCMP534,Nannochloropsis,granulata,"Selvin,R","Selvin,R","Andersen,RA","Selvin,R",3/30/1988 
+CCMP535,Nannochloropsis,granulata,"VanderBorgh,G","Guillard,R","Andersen,RA","Guillard,R (WHOI)",11/1/1965 
+CCMP536,Microchloropsis,gaditana,"VanderBorgh,G","Guillard,R","Andersen,R","Guillard,R (WHOI)",11/1/1965 
+CCMP537,Microchloropsis,salina,"Lewin,R","Lewin,R","Andersen,RA","Lewin,R",4/27/1987 
+CCMP538,Microchloropsis,salina,"Bayer,E","Bayer,E","Andersen,RA","Guillard,R (WHOI)",
+CCMP543,Fistulifera,pelliculosa,"Guillard,R","Guillard,R",,"Guillard,R (WHOI)",6/1/1956 
+CCMP606,Palmaria,decipiens,"Moe,R",,"Moe,R","Moe,R",10/1/1990 
+CCMP607,Pavlova,gyrans,,,,"Waaland,JR",7/19/1982 
+CCMP609,Pavlova,pinquis,,"Provasoli,L","Estep,K","Provasoli,L",9/29/1982 
+CCMP620,Pavlova,sp.,"Provasoli,L","Provasoli,L","Keller,M","Provasoli,L",3/1/1982 
+CCMP621,Bigelowiella,natans,,,,"Provasoli,L",3/1/1982 
+CCMP622,Lotharella,oceanica,"Keller,M","Keller,M",Ota S.,"Keller,M",2/18/1989 
+CCMP625,Emiliania,huxleyi,,"Provasoli,L","Andersen,RA",,
+CCMP630,Phaeodactylum,tricornutum,"Petrovitch and Guillard,R","Guillard,R",,"Guillard,R (WHOI)",
+CCMP635,Phaeoschizoclamys,mucosa,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP637,Phaeothamnion,wetherbeei,,,"Andersen,RA","Andersen,RA",1/2/1991 
+CCMP644,Hemiselmis,andersenii,,"Provasoli,L","Lane,C","Provasoli,L",9/29/1982 
+CCMP645,Pleurochrysis,carterae,"Pintner,I","Pintner,I","Probert,I","Pintner,I",7/1/1958 
+CCMP673,Porphyra,plocamiestris_cf,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP681,Chlamydomonas_cf,sp.,"Moe,R","Moe,R","Friedl,T","Moe,R",10/1/1990 
+CCMP704,Proteomonas,sulcata,,"Hill,DRA","Hill,DRA","Hill,DRA",12/1/1990 
+CCMP705,Proteomonas,sulcata,"Norris,R","Norris,R","Hill,DRA","Waaland,JR",6/4/1982 
+CCMP706,Hemiselmis,pacifica,,,"Lane,C","Waaland,JR",7/19/1982 
+CCMP707,Prymnesium,calathiferum,Mason,"Chang,F",,"Chang,F",8/10/1984 
+CCMP715,Isochrysis,galbana,"Ott,FD","Ott,FD",Probert et al,Int.Shellfish,1/1/1980 
+CCMP716,Pseudopedinella,elastica,"Holligan,P","Selvin,R","Selvin,R","Selvin,R",11/1/1988 
+CCMP719,Pugetia,sp.,"Moe,R","Moe,R","Moe,R","Moe,R",10/1/1990 
+CCMP722,Pyramimonas,obovata,"Guillard,R","Guillard,R","O'Kelly,C","Guillard,R (WHOI)",
+CCMP726,Pyramimonas,parkeae,"Norris,R",,,"Waaland,JR",7/19/1982 
+CCMP732,Pyrocystis,noctiluca,"Sweeney,B","Sweeney,B","Sweeney,B","Sweeney,B",7/16/1985 
+CCMP736,Rhodella,maculata,"Droop,M","Droop,M",,"Leftley,J",7/7/1984 
+CCMP737,Rhodochorton,purpureum,"Moe,R",,"Moe,R","Moe,R",10/1/1990 
+CCMP739,Rhodomonas,lens,"Lasker,R","Lasker,R",,"Provasoli,L",6/1/1982 
+CCMP740,Rhodomonas,sp.,,,"Hill,DRA","Provasoli,L",3/1/1982 
+CCMP743,Rhodomonas,sp.,,,"Hill,DRA","Waaland,JR",6/4/1982 
+CCMP744,Rhodomonas,sp.,,,"Hill,DRA","Waaland,JR",4/4/1982 
+CCMP747,Rhodomonas,sp.,,,"Hill,DRA","Waaland,JR",4/4/1982 
+CCMP755,Rhodomonas,sp.,"Lockwood,S","Provasoli,L","Hill,DRA","Provasoli,L",6/1/1982 
+CCMP756,Rhodomonas,sp.,,"Provasoli,L","Hill,DRA","Provasoli,L",6/1/1982 
+CCMP759,Rhodomonas,sp.,"Provasoli,L","Provasoli,L","Hill,DRA","Provasoli,L",6/1/1982 
+CCMP760,Rhodomonas,sp.,"Dodson,A","Dodson,A","Hill,DRA","Thomas,W",5/12/1982 
+CCMP762,Rhodomonas,sp.,"Skinner,T","Selvin,R","Hill,DRA","Selvin,R",12/22/1986 
+CCMP767,Rhodomonas,sp.,"Dodson,A","Dodson,A","Hill,DRA","Thomas,W",
+CCMP768,Rhodomonas,sp.,Mason,"Chang,F","Hill,DRA","Chang,F",8/10/1984 
+CCMP769,Rhodosorus,marinus,"West,J","West,J",,"Waaland,JR",7/19/1982 
+CCMP770,Sarcinochrysis,sp.,"West,J","West,J","Andersen,RA","Waaland,JR",7/19/1982 
+CCMP781,Skeletonema,marinoi,Wandschneinder,"Claus,W","Sarno,D & Zingone,A","Claus,W",10/15/1984 
+CCMP786,Skeletonema,menzelii,,,"Kooistra,W",,
+CCMP787,Skeletonema,menzelii,"Guillard,R","Guillard,R","Guillard,R","Guillard,R (WHOI)",5/22/1959 
+CCMP790,Skeletonema,menzelii,"Walsh,D","Walsh,D","Hargraves,P","Walsh,D",1/29/1985 
+CCMP813,Asteromonas,gracilis,"Gibor,A","Gibor,A",,,
+CCMP826,Helicotheca,tamensis,,,,"Brand,L",4/27/1984 
+CCMP829,Symbiodinium,tridacnidorum,"Provasoli,L","Provasoli,L","LaJeunesse,T","Provasoli,L",7/1/1983 
+CCMP861,Synura,petersenii,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP862,Synura,petersenii,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP863,Synura,petersenii,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP864,Synura,petersenii,"Kump,SJ","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP866,Synura,petersenii,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP871,Synura,uvella,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP873,Synura,petersenii_cf,"Andersen,RA","Andersen,RA","Andersen,RA","Andersen,RA",1/2/1991 
+CCMP874,Chrysotila,elongata,,"Droop,M",Edvardsen et al,"Provasoli,L",6/1/1982 
+CCMP875,Chrysotila,sp.,"Parke,M","Parke,M","Probert,I","Provasoli,L",6/1/1982 
+CCMP880,Tetraselmis,astigmatica,"Norris,R","Norris,R","Melkonian,M","Waaland,JR",7/19/1982 
+CCMP904,Tetraselmis,suecica,"Butcher,R",Butcher,Butcher,"Waaland,JR",6/16/1982 
+CCMP975,Thalassiosira,aestivalis,"Swift,D","Swift,D",,"Swift,D",
+CCMP988,Thalassiosira,guillardii,"Guillard,R","Guillard,R",,"Guillard,R (WHOI)",
+CCMP991,Bacterosira,constricta,Zullo,Zullo,"Park,J, Alverson,A, Lee, J",,
+CCMP995,Thalassiosira,nordenskioldii,"Guillard,R","Guillard,R",,"Guillard,R",1/29/1960 
+CCMP997,Thalassiosira,nordenskioldii,"Syvertsen,E","Syvertsen,E",,,
+CCMP999,Thalassiosira,oceanica,"Murphy,L","Murphy,L",,"Murphy,L",1/4/1985 

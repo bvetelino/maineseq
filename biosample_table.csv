@@ -1,0 +1,369 @@
+Name,Genus,Species,Collection_Site,Latitude,Longitude,Authentic_Strain,Strain_Synonyms
+CCMP1039,Thalassiosira,tumida,Unknown,-61.951,-36.795,No,AA-218
+CCMP1040,Thalassiosira,tumida,"Ameriez 83, Westwind USCGC, Station 5",-61.951,-36.795,No,AA-219
+CCMP1051,Thalassiosira,weissflogii,"King Kalakaua's Fishpond, Kahaluu, Hawaii USA",19.575,-155.999,No,"THALA7, ARC32"
+CCMP1295,Arthrospira,platensis,Yunnan Province China (lat long very approximate),24.0,102.0,No,CH-9 CCMP3530(AX version)
+CCMP1328,Porphyridium,cruentum,"Eel Pond, Woods Hole, Massachusetts USA",41.5264,-70.67,No,PORPH
+CCMP1335,Thalassiosira,pseudonana,"Moriches Bay, Forge River, Long Island, New York USA",40.756,-72.82,No,"3H, NEPCC58, CS173, CCAP 1085/12"
+CCMP1336,Thalassiosira,weissflogii,"Gardiners Island, Long Island, New York USA",41.11,-72.1,No,ACTIN
+CCMP2133,Tolypothrix,sp.,"Halawa Bay , Molokai, Hawaii USA",21.102,-157.06,No,"A9532, CCMP2619"
+CCMP222,Chlamydomonas,sp.,"Milford, Connecticut USA",41.2264,-73.0639,No,D
+CCMP235,Chlamydomonas,sp.,"Falmouth Great Pond, Falmouth, Massachusetts USA",41.56,-70.583,No,Y
+CCMP243,Chlorella,autotrophica,"Milford, Connecticut USA",41.2264,-73.0639,No,"580, UTEX580, IU589,"
+CCMP3264,Thalassiosira,rotula,"Marechiara, SZN long term sampling station, Gulf of Naples, Italy",40.49,14.15,No,SZN-B399
+CCMP3362,Thalassiosira,rotula,"West Sound, Washington, USA",48.6293,-122.9575,No,"WPF8, GSO102"
+CCMP1001,Thalassiosira,oceanica,continental slope,39.2166,-69.3333,No,"OMEGA35-10B, 35-10B"
+CCMP1004,Thalassiosira,oceanica,Gulf Stream Warm Core Ring 81D,40.3923,-63.957,No,"47, NEPCC618"
+CCMP1005,Thalassiosira,oceanica,,33.1833,-65.25,No,"13-1, NEPCC610"
+CCMP1006,Thalassiosira,oceanica,Bermuda (lat long very approximate),32.3,-64.84,No,B1SA
+CCMP1007,Thalassiosira,pseudonana,"Chincoteague,Virginia USA (lat long approximate)",37.96,-75.38,No,C5
+CCMP1010,Thalassiosira,weissflogii,"Gulf Stream, between Bermuda and New York (very approx)",37.0,-65.0,No,S78
+CCMP1011,Thalassiosira,pseudonana,"St. Croix, US Virgin Islands (lat long approximate)",17.79,-64.82,No,STX97
+CCMP1012,Thalassiosira,pseudonana,"Swan River Estuary, Perth, Western Australia",-31.99,115.8333,No,SWAN1
+CCMP1013,Thalassiosira,pseudonana,"Conwy, Gwynedd, Wales, United Kingdom",53.2833,-3.8333,No,W
+CCMP1014,Thalassiosira,pseudonana,North Pacific Gyre (very approx.),28.0,-155.0,No,FCRG66
+CCMP1015,Thalassiosira,pseudonana,San Juan Island WA USA (lat long approximate),48.544,-123.01,No,"ARC5, 3H(UW), 3H(VL)23"
+CCMP1047,Thalassiosira,weissflogii,"Narragansett,Rhode Island USA",41.4331,-71.455,No,B9TW
+CCMP1048,Thalassiosira,weissflogii,"Bourne's Pond, East Falmouth, Massachusetts USA",41.555,-70.556,No,BPTF
+CCMP1049,Thalassiosira,weissflogii,"Amityville, New York USA",40.66,-73.41,No,4C
+CCMP1050,Thalassiosira,weissflogii,"Del Mar Slough, California USA",32.966,-117.251,No,WTFLU
+CCMP1052,Thalassiosira,weissflogii,"Oslo Fjord, Norway",59.5,10.6,No,TTW1
+CCMP1053,Thalassiosira,weissflogii,Portugal  (lat long very approximate),39.5,-9.3333,No,SA
+CCMP1084,Vaucheria,bursata,Europe (lat long very approximate),50.0,15.0,No,"UTEX0146, CCAP745/1b"
+CCMP1093,Thalassiosira,minuscula,"Scripps Institute of Oceanography, pier, La Jolla, California USA",32.9,-117.255,No,WTSIO
+CCMP1096,Thalassiosira,nordenskioldii,,76.25,-82.55,No,ACB2
+CCMP1100,Thalassionema,sp.,Islas Orcadas Stat. 27 (very approx.),-64.0,-25.0,No,AA-44
+CCMP1102,Fragilariopsis,cylindrus,"Islas Orcadas Cruise, Station 12",-64.08,-48.7033,No,"AA-88H, CCAP1023/1, CCMP3323 is the axenic reisolate"
+CCMP111,Alethocladus,corymbosus,"Astrolabe Needle, Antarctic Peninsula (lat long approximate)",-62.4099,-59.1346,No,M85-9
+CCMP112,Alexandrium,affine,"Ria de Vigo,Spain  (lat long approximate)",42.23,-8.8,No,"PA1V, PGA , NEPCC667"
+CCMP113,Alexandrium,minutum,"Ria de Vigo,Spain (lat long approximate)",42.23,-8.8,No,"AL, AL1V"
+CCMP1144,Pinguiococcus,pyrenoidosus,"Harbor Branch Oceanographic, Fort Pierce, Florida USA",27.4323,-80.31,Yes,"0005, NBRC 103270, CCMP2078 and CCMP2188 are axenic reisolates"
+CCMP1145,Pelagomonas,calceolata_cf,Gulf of Mexico,28.0,-85.3667,No,1935-1
+CCMP1168,Chroomonas,mesostigmatica_cf,collection site unknown,,,No,"Mel-020, NEPCC Cr470, UWASH 374"
+CCMP1178,Rhodomonas,abbreviata_cf,George's Bank (lat long very approximate),42.5,-68.0,No,86183
+CCMP1180,Hemiselmis,andersenii,Mexico (lat long very approximate),21.0,-93.0,No,IVF2
+CCMP1181,Hemiselmis,cryptochromatica,"Bigelow Laboratory dock, West Boothbay Harbor, Maine USA",43.8441,-69.6413,No,CCMP9B
+CCMP1188,Unid.,Phaeophyceae,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M88-BE
+CCMP1198,Pycnococcus,provasolii,"Cruise Oregon 2, Station 6",29.45,-85.618,No,"1201-2, 1201"
+CCMP120,Amphidinium,gibbosum,"artificial tank, University of Miami,  Florida USA",25.7667,-80.175,No,AKLEB
+CCMP1203,Pycnococcus,provasolii,"over slope, old WHOI deep water station II (lat long approximate)",38.32,-69.57,Yes,"OMEGA48-23, CCAP190/1"
+CCMP1204,Pseudohaptolina,arctica,,76.25,-82.55,No,CCMP36
+CCMP1205,Chloropicon,primus,collection site unknown Trident cruise,,,No,"T1100, RCC15"
+CCMP1214,Pelagomonas,calceolata,North Pacific Central Gyre,30.8333,-136.8333,Yes,"Lewin#1082, MC1, CCMP1756 ia rhw axenic reisolate"
+CCMP1220,Prasinoderma,coloniae,Gulf Stream (lat long very  approximate),23.0,-75.0,No,IVE4G
+CCMP1221,Chroomonas,sp.,collection site unknown,,,No,"UW374, U.of Wash.15-4-31"
+CCMP1236,Chlamydomonas_cf,sp.,"Salton City, California USA",33.3,-115.8,No,SS10
+CCMP1243,Rhizochromulina,marina_cf,Oceanus 100,32.0,-65.1667,No,VB4
+CCMP126,Amphora,coffeaeformis,"Galveston Channel, Texas USA",29.3833,-94.8833,No,D106
+CCMP127,Amphora,coffeaeformis,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,47M
+CCMP1276,Phyllophora,antarctica,"Cape Royds, Antarctica (lat long approximate)",-62.4,-59.13,No,M82-5
+CCMP1279,Pavlova,gyrans,collection site unknown,,,No,UTEX922
+CCMP1280,Emiliania,huxleyi,off of Brazil (lat long very approximate),-12.0,-35.0,No,
+CCMP1281,Skeletonema,japonicum,"South California Bight, near Santa Cruz Island, California USA (lat long very approximate)",34.4166,-119.8333,No,
+CCMP1291,Unid.,Phaeophyceae,Antarctic Peninsula (lat long very approximate),-67.0,-65.0,No,85-7
+CCMP1302,Dunaliella,tertiolecta_cf,"Baja California, Mexico (lat long very approximate)",27.0,-112.0,No,"BC-05, DUNA-T"
+CCMP1314,Amphidinium,carterae,"Falmouth Great Pond, Falmouth, Massachusetts USA",41.56,-70.583,No,"AMPHI, AMPHI1, NEPCC32, ATCC30829"
+CCMP1315,Chaetoceros,calcitrans,collection site unknown,,,No,"CCAL, NEPCC590, CCAP 1010/11, CS-178"
+CCMP1316,Chaetoceros,muelleri,"Oceanic Institute, Hawaii, USA (lat long very approximate)",21.5,-157.8333,No,"CHGRA, CCAP1010/3, CS-176"
+CCMP1317,Chaetoceros,neogracile,"Three miles west of Scripps, LaJolla, California USA",32.85,-117.35,No,"SOLCHAET, RCC2546"
+CCMP132,Arcocellulus,mammifer,collection site unknown,,,No,67964
+CCMP1320,Dunaliella,tertiolecta,collection site unknown,,,No,"DUN, WHOI1, NEPCC1, CS175"
+CCMP1323,Isochrysis,galbana,"Marine Biological Station, Port Erin, Isle of Man",54.085,-4.77,Yes,ISO;Plymouth I; UTEX 987; CCAP 927/1;  NEPCC 2; NEPCC 633; SMBA 58;
+CCMP1324,Tisochrysis,lutea,"Mataiva,Tahiti, Society Islands (lat long approximate)",-14.87,-148.68,No,"TISO, NEPCC601, CCAP927/14, CS-177"
+CCMP1325,Diacronema,lutheri,"Milliport, Isle of Cumbrae, Scotland",55.753,4.9233,No,"MONO, NEPCC5, Milliport 60, RCC1537, CS-182"
+CCMP1329,Prorocentrum,minimum,"Great South Bay, Long Island, New York, USA (lat long approximate)",40.6667,-73.25,No,"EXUV, NEPCC541"
+CCMP133,Ascoseira,mirabilis,"Low Island, Antarctic Peninsula (lat long very approximate)",-62.41,-59.1346,No,M85-23
+CCMP1331,Scrippsiella,trochoidea,collection site unknown,,,No,PERI
+CCMP1374,Phaeocystis,antarctica,"McMurdo Sound, Antarctica (lat long approximate)",-77.8333,163.0,No,"B991K, CCMP3314 is the axenic reisolate"
+CCMP1383,Polarella,glacialis,"McMurdo Sound, Antarctica  (lat long approximate)",-77.8333,163.0,No,
+CCMP1384,Pterosperma,sp.,"Galapagos Islands, Ecuador  (lat long very approximate)",0.0,-90.8333,No,
+CCMP1390,Pavlova,sp.,Oceanus cruise 83 station II,38.702,-72.3667,No,"IIG7, IIG7ax"
+CCMP1395,Pelagococcus,sp.,"Oceanus Cruise 83, Station I",34.0,-65.0,No,IE8A
+CCMP140,Asteromonas,gracilis,"San Quintin, Baja California, Mexico",30.495,-115.99,No,"UW314, U.ofWash15-2-67"
+CCMP1404,Imantonia_cf,sp.,,43.0,-65.5,No,861104
+CCMP1408,Chlorarachnion,sp.,,29.9689,-63.8578,No,R18
+CCMP1410,Pelagospilus,aureus,,29.9689,-63.8578,No,B29
+CCMP1413,Prasinoderma,coloniale,,35.0,-70.0,No,8632
+CCMP1416,Pavlova,sp.,,40.85,-66.5,No,86145
+CCMP1429,Pelagococcus,subviridis,subarctic Pacific,49.9166,-145.1166,No,PELACL2
+CCMP1436,Mantoniella,sp.,"McMurdo Sound, Antarctica  (lat long approximate)",-77.8333,163.0,No,
+CCMP147,Triceration,dubium,(lat long very approximate),30.0,-60.0,No,L49
+CCMP148,Bodanella,lauterbornii,"Bodensee, Germany  (lat long approximate)",47.7,9.2,No,UTEX2190
+CCMP1491,Eutreptiella,pomquetensis,"Pomquet Harbor, Nova Scotia Canada  (lat long approximate)",46.175,-62.47,Yes,
+CCMP1499,Desmarestia,anceps_cf,Antarctica (lat long very approximate),-67.0,-65.0,No,M88-8
+CCMP1507,Aureoumbra,lagunensis,"Bird Island Station, Laguna Madre, Texas USA",27.4708,-97.32,No,AT-7726
+CCMP1510,Aureoumbra,lagunensis,"Bird Island Station, Laguna Madre, Texas USA",27.4708,-97.32,No,AT-7730
+CCMP1511,Chlorosarcinopsis,gelatinosa,"Xtampu salina, Dzemal County, Yucatan Penninsula, Mexico (lat long very approximate)",21.5,-88.5,No,
+CCMP1516,Emiliania,huxleyi,,-2.6667,-82.7167,No,CCMP2090 is the axenic reisolate
+CCMP1530,Rhodosorus,sp.,"Elizabeth Bay, Isabela Island, Galapagos Islands, Ecuador",-0.5,-91.0667,No,
+CCMP1538,Aurearena,cruciata,"False Bay, San Juan Island, Washington USA",48.486,-123.07,No,"SPOT2, JS707"
+CCMP1545,Micromonas,pusilla,"near Plymouth, Devon, England, United Kingdom (lat long approximate)",50.362,-4.17,No,"UTEX LB991, PLY27, CCAP LB 1965/4, MP1, RCC 834, CCMP491"
+CCMP157,Ceratocorys,horrida,"Banda, Banda Sea, South East Asia (lat long very approximate)",-5.0,130.0,No,"CORY, NEPCC201"
+CCMP1581,Asterionellopsis,glacialis,"Renesee, The Netherlands",51.7333,3.7667,No,R992H
+CCMP1587,Thalassiosira,weissflogii,"Jakarta Harbor, Indonesia (approx.)",-6.08,106.79,No,JA92I
+CCMP1594,Eutreptiella,gymnastica,"Narragansett Bay, Rhode Island USA  (lat long approximate)",41.6,-71.4,No,C11
+CCMP1618,Aurearena,cruciata,"False Bay, San Juan Island, Washington USA",48.486,-123.07,No,SPOT1
+CCMP1625,Scenedesmus,sp.,"Tramway Ridge, Mt. Erebus, Antarctica",-77.5,167.2,No,
+CCMP1633,Symbiodinium,microadriaticum,Hawaii USA  (lat long very approximate),20.5,-156.8,No,APU
+CCMP164,Chaetoceros,brevis,"Islas Orcadas Cruise, Station 6",-61.2833,-54.7361,No,AA-55
+CCMP1641,Dunaliella,sp.,"Mataiva,Tahiti, Society Islands  (lat long approximate)",-14.87,-148.68,No,
+CCMP1660,Thalassiosira,weissflogii,,,,Yes,KP100
+CCMP1661,Fibrocapsa,japonica,"Port Phillip Bay, Hobsons Bay, Melbourne, Victoria, Australia",-37.86,144.93,No,K-0247
+CCMP1662,Nannochloropsis,granulata,Skagerrak,57.75,10.0049,Yes,
+CCMP1665,Pleurochloridella,botrydiopsis,"farm pond, Palmerston North, New Zealand",-40.3666,175.6,No,
+CCMP1666,Giraudyopsis,stellifera,"Leigh, New Zealand, near Auckland University Field Station",-36.3833,174.8,No,NZ42
+CCMP1673,Eugomontia,sacculata,"Cove Island Park, Stamford, Connecticut USA",41.0509,-73.55,No,
+CCMP1676,Ulvella,consociata,"Alameida Island , San Francisco, California USA",37.76,-122.27,No,
+CCMP1680,Heterosigma,akashiwo,"Sandy Hook Bay, New Jersey USA",40.46,-74.03,No,
+CCMP1687,Helicotheca,tamesis,"Station OM-3, Gulf of Oman",23.5643,58.853,No,
+CCMP1707,Aureococcus,anophagefferens,"West Neck Bay, Peconic Bay, Long Island, New York USA",41.09,-72.355,No,A8009
+CCMP1715,Skeletonema,dohrnii,"Kasitsna Bay, near Seldovia, Alaska USA",59.475,-151.55,No,
+CCMP1717,Asterionellopsis,glacialis,"Kasitsna Bay, near Seldovia, Alaska USA",59.475,-151.55,No,
+CCMP173,Chaetoceros,decipiens,"List, Sylt, Germany",55.0167,8.443,No,WCL1
+CCMP1751,Chaetoceros,dichaeta,Polarstern ANT XIII/2 station 32,-49.9,11.55,No,
+CCMP1756,Pelagomonas,calceolata,North Pacific Central Gyre,30.8333,-136.8333,Yes,"CCMP1214, MC1, Lewin#1082"
+CCMP1757,Prymnesium,polylepis,"Kristineberg, Sweden (lat long approximate)",64.75,21.3333,No,"CCMP285, ED1"
+CCMP1767,Apedinella,radians,"Musholm Bugt, Store  Store B?¶lt, Denmark (lat long approximate)",55.48,11.1,No,K-0077
+CCMP1771,Alexandrium,tamarense,"Tamar Estuary, Plymouth, England, United Kingdom (lat long approximate)",50.36,-4.15,No,"CCMP115, PLY173, NEPCC183, Tamar strain"
+CCMP1773,Alexandrium,ostenfeldii,"Lim Fjorden, Denmark (lat long approximate)",57.0,9.0,No,K-0324
+CCMP1776,Microchloropsis,salina,"Skate Point, Isle of Cumbrae, Scotland, United Kingdom (lat long approximate)",55.75,-4.96,No,CCAP 849/2
+CCMP1779,Nannochloropsis,oceanica,Kuwait Institute for Scientific Research (lat long very approximate),29.0,48.0,No,CCAP211/46
+CCMP1830,Pfiesteria,piscicida,"station CCM0069, Chicamacomico River, Maryland USA (lat long approximate)",38.4,-75.85,No,A8928
+CCMP1831,Pfiesteria,piscicida,"station CCM0069, Chicamacomico River, Maryland USA (lat long approximate)",38.4,-75.85,No,A8934
+CCMP1850,Aureococcus,anophagefferens,"Station 300, Great South Bay, Long Island, New York USA",40.6508,-73.1524,No,A9087
+CCMP1856,Leptocylindrus,hargravesii,lat long  very approximate),25.0,-90.0,No,"SB379C, CCMP1801"
+CCMP1868,Storeatula,sp.,"Parakeet Bay, Rottnest Island in Western Australia",-32.0,115.6,No,
+CCMP1870,Heterosigma,akashiwo,"mouth of the Los Angeles River, Long Beach, California USA",33.7833,-118.3167,No,A9135
+CCMP1907,Pylaiella,littoralis,collection site unknown,,,No,
+CCMP1912,Heterosigma,akashiwo,"Kalaloch, Washington USA",47.6047,-124.3755,No,"NWFSC-500, Kalaloch"
+CCMP1923,Dunaliella,sp.,"Lake Cha-gan-nur, Inner Mongolia, China (lat long very approximate)",46.0,106.0,No,D-321
+CCMP1930,Ectocarpus,sp.,"Harwich Harbor, Cape Cod, Massachusetts USA",41.6635,-70.0646,No,
+CCMP1952,Pyramimonas,sp.,"Bigelow Laboratory dock, West Boothbay Harbor, Maine USA",43.8441,-69.6413,No,JS121
+CCMP1984,Aureococcus,anophagefferens,"Great South Bay, Long Island, New York, USA (lat long approximate)",40.6667,-73.25,No,"CCMP1784, BT-1, summer strain"
+CCMP2000,Phaeocystis,rex,"station 05301509, 1112, BA3",14.449,64.9997,No,A9125
+CCMP2002,Ochrosphaera,neapolitana,"Kona Coast, Keala Kekua Bay,  Island of Hawaii, Hawaii USA (lat long approximate)",19.48,-155.93,No,A8809
+CCMP2021,Lingulodinium,polyedra,"Scripps Institute of Oceanography, pier, La Jolla, California USA",32.9,-117.255,No,"CCMP405, GP60E"
+CCMP2045,Baffinella,frigidus,Canadian Coast Guard Ice Breaker Pierre Radisson,76.3208,-75.8172,No,Crypt14501
+CCMP2046,Mesostigma,viride,"Mitsukaido, Ibaraki, Japan",36.02,139.98,No,"NIES-296, N-296, KY-14"
+CCMP2049,Chattonella,marina,"Kagoshima Bay, Kagoshima, Japan",31.55,130.57,No,"NIES-121, N-121, KGO-57-1"
+CCMP2052,Chattonella,marina,"Mikawa Bay, Aichi, Japan",34.0,137.5,No,"NIES-558, N-558"
+CCMP2057,Gymnochlora,stellata,Guam (lat long very approximate),13.5,144.75,Yes,Guam-1
+CCMP2078,Pinguiococcus,pyrenoidosus,"Harbor Branch Oceanographic, Fort Pierce, Florida USA",27.4323,-80.31,No,"0005, NBRC 103270, CCMP1144, CCMP2188, A9596"
+CCMP2084,Attheya,septentrionalis,Canadian Coast Guard Ice Breaker Pierre Radisson,77.8136,-76.3697,No,ChaetSI50
+CCMP2087,Pyramimonas,sp.,Canadian Coast Guard Ice Breaker Pierre Radisson,76.285,-73.0575,No,PyramWC14371
+CCMP2088,Polarella,glacialis,Canadian Coast Guard Ice Breaker Pierre Radisson,78.5978,-74.4992,No,GymWC006
+CCMP2092,Skeletonema,marinoi,"Gulf of Trieste, Italy",45.7,13.7,No,SZN B25
+CCMP2111,Chloropicon,maureeniae,,-5.4684,75.6186,No,"A9570, RCC3368"
+CCMP212,Attheya,sp.,,76.25,-82.55,No,ACB10
+CCMP2135,unidentified,sp.,,20.7722,-63.0368,No,A9479
+CCMP214,Attheya,longicornis,(approximate location),43.0,-69.0,No,"53, DS53, S53"
+CCMP2157,Skeletonema,tropicum,"1/2 mile off Samba River, Darien, Panama (lat long approximate)",8.5,-78.22,No,A8513
+CCMP217,Chattonella,subsalsa,lat long  very approximate),25.0,-90.0,No,BGB2
+CCMP218,Chattonella,sp.,"Harima, Japan (approx.)",34.5,134.5,No,WTOMO
+CCMP219,Chlamydomonas,euryale,"Qingdao, China",36.05,120.31,No,"MACC0054, UTEX2274"
+CCMP2191,Chattonella,subsalsa,"Indian River Bay, Delaware USA (IR32)",38.59,-75.1,No,
+CCMP220,Dunaliella,sp.,collection site unknown,,,No,HCO5
+CCMP2222,Alexandrium,andersonii,"Gulf of Naples off of Naples, Italy (approx.)",40.75,14.25,No,"JS465,SZN012"
+CCMP2256,Desmodesmus,ultrasquamatus,"Mud Lake, Arrowwood National Wildlife Refuge, Stutsman County, North Dakota USA",47.25,-98.75,No,MLO-4
+CCMP2276,unidentified,sp.,"Mary Lake, Itasca State Park, Minnesota USA",47.1834,-95.1667,No,Mary 8/18 S-3d
+CCMP2279,unidentified,sp.,"Mary Lake, Itasca State Park, Minnesota USA",47.1834,-95.1667,No,"Mary 8/18 M-8w, Fawley 29"
+CCMP2280,unidentified,sp.,"Mary Lake, Itasca State Park, Minnesota USA",47.1834,-95.1667,No,"Mary 8/18 S-6d, Fawley 45"
+CCMP2281,Karenia,brevis,"Gulf of Mexico between Pensacola Beach, Florida and Navarre, Florida, USA",30.38,-86.86,No,JR1RE
+CCMP2288,Halochlorococcum,moorei,"Friday Harbor, San Juan Isand, Washingtion USA",48.544,-123.01,No,WA1-14b
+CCMP2292,Bolbocoleon,piliferum,"Cattle Point, San Juan Island, Washington USA",48.4495,-122.963,No,WA1.7B
+CCMP2293,Baffinella,frigidus,"between Ellesmere Island, Canada and Greenland",78.5922,-74.4922,No,"Chroo 006, Chr00 WC006"
+CCMP2297,unidentified,sp.,"between Ellesmere Island, Canada and Greenland",77.8333,-75.55,No,FSIA
+CCMP2315,Bolbocoleon,piliferum,"Cattle Point, San Juan Island, Washington USA",48.4495,-122.963,No,WAZ-1
+CCMP2316,Bolbocoleon,piliferum,"Cattle Point, San Juan Island, Washington USA",48.4495,-122.963,No,WA1-6a
+CCMP2317,Bolbocoleon,piliferum,"Noboska Point, Woods Hole, Massachusetts USA",41.525,-70.6736,No,"MA3-1b, MA3-01b"
+CCMP2318,Ulvella,pseudorepens,"Brant Rock, Marshfield, Massachusetts USA",42.1027,-70.6588,No,MA1-1c2
+CCMP2319,Ochlochaete,hystrix,"Quissett Estuary, Woods Hole, Massachusetts USA",41.525,-70.6736,No,MA1-8b
+CCMP233,Chlamydomonas,sp.,"Pismo Beach,California USA",35.1359,-120.677,No,"UW316, U.ofWash.15-2-71, NEPCC477"
+CCMP2331,Ulvella,viridis_cf,"Brant Rock, Massachusetts USA",42.1027,-70.6588,No,MA1.2
+CCMP2335,Ulvella,leptochaete,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,MBL Poly1
+CCMP2349,Arachnochrysis,demoulinii,"Sample 3, Station de Recherches Sous marines et Oceanographique  Calvi, Corsica, France at a depth of 18m on neshes of a cage placed in a Posidonia bed",42.5803,8.7244,No,"A10,246"
+CCMP236,Chlamydomonas,sp_cf,collection site unknown,,,No,"11/35, CCAP11/35"
+CCMP238,Chlorarachnion,reptans,"Puerto Pe?±asco, Sonora, Mexico",31.3172,-113.56,No,"UW463, Norris 20-10-6"
+CCMP2393,Heterosigma,akashiwo,"Torquay Canal, Bald Eagle Creek, Rehoboth Bay,  Delaware USA",38.6991,-75.1097,No,H. Del
+CCMP2396,Entomoneis,sp.,Canadian Coast Guard Ice Breaker Pierre Radisson,77.8333,-75.55,No,ENT SIA
+CCMP240,Lotharella,vacuolata,"Atlantic side, Craig Key, Florida Keys, Florida USA (lat long very approximate)",25.0,-80.5,No,FK18G
+CCMP242,Bigelowiella,longifila,NW Bermuda  (lat long approximate),32.376,-64.71,Yes,BEAST
+CCMP245,Schizochlamydella,capsulata,"inland waterway, Sarasota County, Florida USA",27.3361,-82.5466,No,"FLAE, UTEX LB2074, FLA-E"
+CCMP2466,Symbiodinium,goreauri,Jamaica (lat long very approximate),18.0,-77.0,No,152; phylogenetic clade C1
+CCMP2467,Symbiodinium,microadriaticum,Gulf of Aqaba; belongs to phylogenetic clade A1 lat long very approximate),29.0,34.75,No,370
+CCMP2468,Symbiodinium,kawagutii,"Hawaii, USA (lat long very approximate)",21.25,-158.0,No,135;  phylogenetic clade F1
+CCMP2471,Florenciella,parvula,Britanny Coast,49.0,-4.0,Yes,RCC446
+CCMP2556,Symbiodinium,trenchii,"Tennessee Reef, Florida Keys, Florida USA  (lat long approximate)",24.7335,-20.7669,No,Mf2.2b; JS823; phylogenetic type type D1a
+CCMP2564,Geminigera,cryophila,"McMurdo Sound, Antarctica (lat long approximate)",-77.8333,163.0,No,
+CCMP2675,Bostrychia,flagellifera,"Punsand Bay, Cape York, Queensland, Australia (lat long approximate)",-10.705,142.45,No,JAW4230
+CCMP2677,Bostrychia,radicans,"middle of Liverpool River, Arnhem Land, Northern Territories, Australia",-12.17,134.135,No,JAW4002
+CCMP268,Chroomonas,pauciplastida,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,CHROO
+CCMP269,Chroomonas,mesostigmatica,"Assateague Island, Maryland USA",38.13,-75.2,No,ASAFLAG
+CCMP270,Chroomonas,sp.,"Eel Pond, Woods Hole, Massachusetts USA",41.5264,-70.67,No,EPT30
+CCMP2710,Thalassiosira,oceanica,"Station OM-3, Gulf of Oman",23.5643,58.853,No,CCMP1728
+CCMP2712,Guillardia,theta,"Milford, Connecticut USA",41.2264,-73.0639,No,"THETA, CCMP327, A11,257"
+CCMP2743,Navicula,glaciei,"near Beaufort Island, southern Ross Sea, Antarctica",-76.505,167.0227,No,"A11,141"
+CCMP2744,Navicula,glaciei,"near Beaufort Island, southern Ross Sea, Antarctica",-76.505,167.0227,No,"A11,142"
+CCMP2745,Synedropsis,sp.,Pacfic Sector of the Southern Ocean,-77.6,166.3833,No,"A11,136"
+CCMP2746,Navicula,sp.,Pacfic Sector of the Southern Ocean,-77.6,166.3833,No,"A11,137"
+CCMP2747,Synedropsis,sp.,Pacfic Sector of the Southern Ocean,-77.6,166.3833,No,"A11,138"
+CCMP2749,unidentified,sp.,"near Beaufort Island, southern Ross Sea, Antarctica",-76.505,167.0227,No,"A11,140"
+CCMP275,Rhodomonas,sp.,"Point Lonsdale, Victoria, Australia",-38.293,144.6,No,Mel-032
+CCMP2755,Bigelowiella,natans,Oceanus 100,34.7166,-66.5,No,"A11,446, CCMP2760, CCMP621, VA3, CCMP2756, and CCMP2757 are axenic reisolates of CCMP621"
+CCMP2757,Bigelowiella,natans,Oceanus 100,34.7166,-66.5,No,"A11,490, CCMP2760, CCMP621, VA3, CCMP2755,CCMP2756, are axenic reisolates of CCMP621"
+CCMP2808,Heterosigma,akashiwo,"Guemes Channel, Puget Sound, Washington, USA",48.5168,-122.6002,No,SPMC115
+CCMP284,Chrysochromulina,herdlensis,,49.8666,-142.6666,No,NEPCC186
+CCMP2844,Catenella,caespitosa,"La Parguera, Puerto Rico, USA",17.9718,-62.0413,No,JAW2689
+CCMP2848,Catenella,nipae,"Libertad, Misamis Oriental, Philippines",9.05,125.7167,No,JAW2906
+CCMP2850,Catenella,nipae,"(very approx.) Bali Barat National Park, Indonesia",-8.0,115.0,No,JAW3965
+CCMP2852,Hypnea,sp.,"Tempusak (near Kota Belud), Sabah, Malaysia",6.3667,116.3333,No,JAW4085-1
+CCMP2856,Catenella,caespitosa,"Marine Station, south of Bergen, Norway (lat long approximate)",60.2,5.3,No,JAW4347-1
+CCMP2858,Catenella,sp.,"Anafiafy, I. St. Marie, Madagascar",-17.0907,49.8078,No,JAW4451
+CCMP2868,Acrochaetium,sp.,"Ifaty, Madagascar",-23.168,43.6058,No,JAW4326
+CCMP2878,Chromera,velia,"Syndey Harbor, New South Wales, Australia",-33.8441,151.2789,Yes,RM12
+CCMP2907,Unid.,Phaeophyceae,"Ellenabeich Bay, Seil Island near Oban, Scotland, UK(lat long very approximate)",56.41,-5.51,No,"A11,098"
+CCMP291,Chrysochromulina,parva,Colorado USA (lat long very approximate),39.0,-105.0,No,Lee-001
+CCMP2950,Chrysoreinhardia,nov.sp.,Naga-hama Japan,24.7262,125.2415,No,"A10,608"
+CCMP300,Chrysotila,sp.,collection site unknown,,,No,PRCOCCO
+CCMP302,Heterosigma,akashiwo,"Milford Sound, New Zealand",-44.68,167.91,No,CHANG3
+CCMP3057,Pseudokephyrion,sp.,"Lake ?ñdensee, Styria region, Austria",47.351,-13.8167,No,OE28K-C
+CCMP307,Corethron,hystrix,collection site unknown,,,No,"L1529, A1529"
+CCMP3076,Caloglossa,vieillardii,"middle Liverpool River, Arnhem Land, NT, Australia",-12.0334,134.2169,No,West 4008
+CCMP3087,Picocystis,sp.,"Mono Lake, California, USA (lat long approximate)",38.009,-119.0,No,"CCMP2805,Mickey, ML, L-7.CCMP3091,JS1022"
+CCMP3089,Corynoplastis,japonica,collection site unknown,,,No,"JAW3988, Tobishime strain"
+CCMP3095,Caloglossa,sp.,"Eton Beach at bridge, Efate, Republic of Vanuatu",-17.735,168.57,No,West 4527
+CCMP3098,Caloglossa,leprieurii,"Puerto Pizarro, Tumbes, Peru",-3.5,-80.1667,No,West4049
+CCMP3108,Caloglossa,monosticha,"Kuala Tanjungbatu, Sandakan, Sabah, Malaysia",5.84,118.1125,No,West 4093
+CCMP3147,Caloglossa,ogasawaraensis,"Melam, Kosrae, Federated States of Micronesia",5.2834,163.0169,No,West 4623
+CCMP3153,Microtalis,aquatica,"Tower Pond, Itasca State Park, Minnesota USA",47.2201,-95.2701,Yes,
+CCMP316,Crypthecodinium,cohnii,collection site unknown,,,No,CCOHNII(D)
+CCMP3189,Chrysocystis,fragilis,Guam,13.5,144.75,No,"A11,633"
+CCMP3207,Aurearena,cruciata,"Isonoura Beach, Wakayama, Isonoura Wakayama Japan",,,Yes,"NIES-1863, TKB-337"
+CCMP3230,Porphyra,pulchella,"Nelson's  Lagoon,  Mimosa Rock National Park, New South Wales, Australia",-36.5796,150.041,No,JAW3923
+CCMP3234,Madagascaria,erythrocladiodes,"Shit Point, Ampasi Pohry, Nossi Be, Madagascar",-13.3836,48.3388,No,JAW4480
+CCMP3235,Neorhodella,cyanea,"Menton, France",43.75,7.5,Yes,"CCMP3083,JAW4072, CCAP 1346/1"
+CCMP324,Rhodomonas,sp.,"Devil's Churn, Oregon USA",44.2811,-124.227,No,"UW373, U.of Wash.15-4-30 &15-8-64"
+CCMP3247,Bostrychia,moritziana,"river mouth, near Ponerihouen, New Caledonia (location approximate)",-21.1,165.5,No,West 4371
+CCMP325,Hanusia,phi,"Milford, Connecticut USA",41.2264,-73.0639,No,PHI
+CCMP3250,Porphyra,lucasii,"Williamstown,  Victoria,  Australia",-37.8166,144.8833,No,JAW4671
+CCMP326,Proteomonas,sp.,"Oceanus Cruise 83, Station I",34.0,-65.0,No,ID2
+CCMP3278,Timspurckia,oligopyrenoides,"Stony Creek Backwash, Williamstown, Victoria, Australia",-31.81,144.9,Yes,"CCMP3341, JAW3827, CCAP1393/1,"
+CCMP3279,Ochromonas,danica,"Everdrup, Denmark",55.2,11.97,Yes,"CCAP 933/2B; SAG 933-7; ATCC 30004, LB 1298, CCMP585,UTEX1298, JS1045"
+CCMP329,Cyanophora,paradoxa,"England, United Kingdom (lat long very approximate)",54.0,-4.0,No,"CY2, CCAP981/1, UTEX2344, UTEX555, SAG29.80"
+CCMP3310,Prorocentrum,lima,"New Meadows River near Bath, Maine USA",43.9047,-69.8833,No,"JS1072, CCMP2273, BTP-4"
+CCMP332,Cyclotella,cryptica,"West Tisbury Great Pond, Martha's Vineyard, Massachusetts USA",41.355,-70.655,Yes,"T13L, NEPCC521"
+CCMP3323,Fragilariopsis,cylindrus,"Islas Orcadas Cruise, Station 12",-64.08,-48.7033,No,"CCMP1102, AA-88H, CCAP1023/1"
+CCMP3327,Goniomonas,avonlea,"Prince Edward Island, Canada",46.5105,-63.4856,No,EK M
+CCMP3346,Vitrella,brassicaformis,"Great Barrier Reef, Australia (lat long very approximate)",-23.5,152.0,Yes,"A10,477, from RM-11, CCMP3155"
+CCMP3361,unidentified,sp.,station MAR4Marquesas  Islands,-8.3333,-141.25,No,"Biosope_25 B2, NIES2692, CCMP3390"
+CCMP3368,Aureococcus,anophagefferens,"Great South Bay, Long Island, New York, USA (lat long approx.)",40.6667,-73.25,No,"CCMP1785, BT-w, winter strain"
+CCMP337,Cyclotella,meneghiniana,"Nir David Kibbutz (B?©t She'an Valley), Israel (lat long approximate)",32.5,35.465,No,NIRDAV
+CCMP3373,Skeletonema,dohrnii,"Narragansett Bay, Station 2, Rhode Island  USA",41.5708,-71.4051,No,Skel B
+CCMP338,Cyclotella,meneghiniana,"Dyer's Dock, Boothbay Harbor, Maine USA (lat long approximate)",43.8442,-69.641,No,X
+CCMP3390,unidentified,sp.,"Biosope cruise, station MAR4, near Marquises Islands, French Polynesia",-8.3333,-141.25,No,"RCC1024, Biosope_25 B2, NIES2692, CCMP3361"
+CCMP3417,Haematococcus,sp.,"East Boothbay, Maine USA",43.856,-69.5767,No,JS1456
+CCMP345,Cymatosira,belgica,collection site unknown,,,No,67795
+CCMP3453,Rhodenigma,contortum,"Coral Bay, Western Australia, Australia",-23.1335,113.7667,Yes,JAW4846
+CCMP3467,Amorphochlora,amoebiformis,"Moon Beach, Okinawa, Japan",26.5,128.0,No,"CCMP2058,CCMP3468, CCMP3469, JS1566"
+CCMP352,Detonula,confervacea,"Chase Creek, Dennis, Masachusetts USA",41.76,-70.2,No,67DC
+CCMP358,Ditylum,brightwellii,Gulf of Mexico,28.902,-89.4853,No,"L1022, A1022"
+CCMP364,Dunaliella,tertiolecta,"Oslo Fjord, Norway",59.5,10.6,No,"MCIIIA, CCAP19/6a&19/6b, Ply83, MCIIIB"
+CCMP367,Dunaliella,sp.,"south end San Diego Bay,California USA",32.5925,-117.11,No,WTBAY
+CCMP369,Microchloropsis,salina,"Narragansett Bay, Rhode Island USA (lat long approximate)",41.6,-71.4,No,278-02
+CCMP387,Eustigmatos,magnus,"Bealey, New Zealand",-43.5,172.6,No,"CCAP860/1, UTEX2351"
+CCMP391,Extubocellulus,cribriger,collection site unknown,,,No,67350
+CCMP409,Gonyaulax,spinifera_cf,"Bigelow Laboratory dock, West Boothbay Harbor, Maine USA",43.8441,-69.6413,No,W1
+CCMP421,Symbiodinium,voratum,"Wellington, New Zealand",-41.27,174.795,No,CHANG4
+CCMP439,Hemiselmis,andersenii,Cape San Blas (lat long approximate),29.8,-85.6666,No,IVF3
+CCMP441,Hemiselmis,andersenii,Gulf Stream (lat long very approximate),23.0,-75.0,No,IVE4
+CCMP443,Hemiselmis,tepida,"Galveston Channel, Texas USA",29.3833,-94.8833,No,IVP8
+CCMP445,Heterocapsa,arctica,,76.25,-82.55,No,CCMP35
+CCMP448,Heterocapsa,triquetra,"Perch Pond, Falmouth, Massachusetts USA",41.54,-70.61,No,"HT984, A984"
+CCMP452,Heterosigma,akashiwo,"Long Island Sound, USA (lat long approximate)",41.0,-73.0,No,OLISTH
+CCMP453,Hibberdia,magna,"Wimpole, Cambridgeshire, England, United Kingdom",52.1333,-0.0475,No,"CCAP 911/1, UTEX2648, A-2028, K-1175"
+CCMP455,Hymenocladiopsis,crustigena,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M85-17
+CCMP463,Tisochrysis,lutea,"Little Water Cay, Turks and Caicos Islands, British West Indies",22.0,-72.0,No,CISO
+CCMP466,Laingia,sp.,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M85-3
+CCMP470,unidentified,diatom,"Morro Bay, near San Luis Obispo, California USA",35.3674,-120.8662,No,WT7
+CCMP489,Micromonas,commoda,Endeavor cruise,28.9833,-64.3667,No,D120M
+CCMP495,Minidiscus,variabilis,(lat long approximate),43.0,-68.0,No,GME41
+CCMP496,Minidiscus,trioculatus,collection site unknown,,,No,BF
+CCMP504,unidentified,sp.,"Charleston Harbor, South Carolina USA",32.77,-79.9,No,LADY
+CCMP505,Nannochloropsis,limnetica,"Morehead City, North Carolina USA",34.72,-76.7319,No,"ODUS, Monodus sp."
+CCMP507,Myriogramme,manginii,"Low Island, South Shetland Islands",-63.0,-63.0,No,M85-12
+CCMP525,Nannochloropsis,oculata,"Skate Point, Isle of Cumbrae, United Kingdom:Scotland (lat long approximate)",55.7792,4.9298,No,"66, Millport66, CCAP849/1, UTEX2164, SMBA 66, NIVA-3/04"
+CCMP526,Microchloropsis,gaditana,"Lagune de Oualidia, Morocco",32.8333,-9.0,No,"NO1, Billard strain"
+CCMP527,Microchloropsis,gaditana,"Great South Bay, Long Island, New York, USA (lat long approximate)",40.6667,-73.25,No,"GSBSTICHO, also in SERI collection"
+CCMP529,Nannochloropsis,granulata,Continental Shelf,39.6,-70.1,No,7-15STICHO
+CCMP531,Nannochloropsis,sp.,"Qingdao, China",36.05,120.31,No,MACC0938
+CCMP532,Microchloropsis,gaditana,"Milford, Connecticut USA",41.2264,-73.0639,No,MILNANNO
+CCMP534,Nannochloropsis,granulata,"Bigelow Laboratory dock, West Boothbay Harbor, Maine USA",43.8441,-69.6413,No,RS10
+CCMP535,Nannochloropsis,granulata,"West Sayville, New York USA",40.715,-73.106,No,"SAY2, 1965-2"
+CCMP536,Microchloropsis,gaditana,"West Sayville, New York USA",40.715,-73.106,No,"SAY3, 1965-3"
+CCMP537,Microchloropsis,salina,"Narragansett Bay, Rhode Island USA (lat long approximate)",41.6,-71.4,No,277-04
+CCMP538,Microchloropsis,salina,"Pamlico Sound, North Carolina USA (lat long approximate)",35.0333,-76.0,No,CARA2
+CCMP543,Fistulifera,pelliculosa,"Oyster Pond, Martha's Vineyard, Massachusetts USA",41.355,-70.5986,No,"O4, 0-4"
+CCMP606,Palmaria,decipiens,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M88-38
+CCMP607,Pavlova,gyrans,collection site unknown,,,No,"UW349, U.ofWash.20-3-33, NEPCC438"
+CCMP609,Pavlova,pinquis,"Oceanus Cruise 83, Station I",34.0,-65.0,No,"IG7, IG7AX"
+CCMP620,Pavlova,sp.,Oceanus cruise 83 station II,38.702,-72.3667,No,"IIG3ax, IIG3"
+CCMP621,Bigelowiella,natans,Oceanus 100,34.7166,-66.5,Yes,"VA3, CCMP2755,CCMP2756, CCMP2757 are axenic reisolates of CCMP621; CCMP2760 is also a reisolate"
+CCMP622,Lotharella,oceanica,,34.6333,-66.65,Yes,"CHMK5, CHMK5-1"
+CCMP625,Emiliania,huxleyi,collection site unknown,,,No,H3-14
+CCMP630,Phaeodactylum,tricornutum,"West Dennis, Masachusetts USA",41.76,-70.2,No,PETPD
+CCMP635,Phaeoschizoclamys,mucosa,"Tobacco River, Keeweenaw County, Michigan USA",47.2325,-88.17,No,"A7685, A3221"
+CCMP637,Phaeothamnion,wetherbeei,Europe (lat long very  approximate),50.0,15.0,No,"SAG 119.79, A-7741, K-1186"
+CCMP644,Hemiselmis,andersenii,Gulf Stream (lat long very approximate),23.0,-75.0,Yes,IVE3
+CCMP645,Pleurochrysis,carterae,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,COCCOII
+CCMP673,Porphyra,plocamiestris_cf,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M88-20
+CCMP681,Chlamydomonas_cf,sp.,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M88-1
+CCMP704,Proteomonas,sulcata,collection site unknown,,,No,Mel-008
+CCMP705,Proteomonas,sulcata,"Puerto Pe?±asco, Sonora, Mexico",31.3172,-113.56,No,"UW370, U.of Wash.20-4-27"
+CCMP706,Hemiselmis,pacifica,"Friday Harbor, San Juan Isand, Washingtion USA",48.544,-123.01,Yes,"UW328, U.ofWash.15-3-7"
+CCMP707,Prymnesium,calathiferum,"North Island, New Zealand (lat long very approximate)",-39.0,176.0,No,CHANG1
+CCMP715,Isochrysis,galbana,"York River, Virginia USA (lat long approximate)",37.233,-76.53,No,VA12
+CCMP716,Pseudopedinella,elastica,(lat long approximate),43.0,-68.0,No,PED
+CCMP719,Pugetia,sp.,"Astrolabe Needle, Antarctic Peninsula (lat long approximate)",-62.4099,-59.1346,No,M85-20
+CCMP722,Pyramimonas,obovata,,33.1833,-65.25,No,"13-10PYR, PYR3"
+CCMP726,Pyramimonas,parkeae,"Hopkins Marine Station, Pacific Grove, California USA",36.64,-121.93,No,"UW430, U.of Wash.15-8-39, NEPCC518"
+CCMP732,Pyrocystis,noctiluca,"Santa Barbara Channel, California USA (lat long approximate)",34.25,-119.72,No,CCMP4
+CCMP736,Rhodella,maculata,"Southend-on-Sea, Essex, England, United Kingdom",51.532,0.7,No,"MILLPORT207, SMBA#207, UTEX2506, JAW3622"
+CCMP737,Rhodochorton,purpureum,"Palmer Station, Antarctica (lat long approximate)",-64.7667,-64.05,No,M75-1
+CCMP739,Rhodomonas,lens,Gulf Stream (lat long very approximate),23.0,-75.0,No,"RLENS, NEPCC588, Milford RHODO"
+CCMP740,Rhodomonas,sp.,"Galveston Channel, Texas USA",29.3833,-94.8833,No,IVP12
+CCMP743,Rhodomonas,sp.,"south of Hopkins Marine Station, Pacific Grove, California USA",36.64,-121.93,No,"UW357, U.ofWash.15-4-11"
+CCMP744,Rhodomonas,sp.,"Buenaventure State Park 2, California USA",,,No,"UW359, U.ofWash.15-4-14, NEPCC461"
+CCMP747,Rhodomonas,sp.,"Hopkins Marine Station, California USA",36.64,-121.93,No,"UW363, U.ofWash.15-4-18, NEPCC464"
+CCMP755,Rhodomonas,sp.,"Long Island Sound, near Connecticut USA (lat long approximate)",41.17,-72.9,No,LIS1
+CCMP756,Rhodomonas,sp.,collection site unknown,,,No,"M2, Crypto M2(Pintner)"
+CCMP759,Rhodomonas,sp.,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,WH2
+CCMP760,Rhodomonas,sp.,"Acapulco Harbor, Mexico",16.85,-99.88,No,WTCRY
+CCMP762,Rhodomonas,sp.,"Pigeon Hill Bay, Maine USA (lat long approximate)",44.45,-67.873,No,3294
+CCMP767,Rhodomonas,sp.,"Magdalena Bay, Baja California Mexico (lat long approximate)",30.5,-113.0,No,"WT651, 651/MB"
+CCMP768,Rhodomonas,sp.,"North Island, New Zealand (lat long very approximate)",-39.0,176.0,No,CHANG2
+CCMP769,Rhodosorus,marinus,Hawaii USA (lat long very approximate),20.5,-156.8,No,"UW456, U.of Wash.15-9-1, UTEX1723"
+CCMP770,Sarcinochrysis,sp.,Hawaii USA (lat long very approximate),20.5,-156.8,No,"UW332, U.ofWash.20-3-12"
+CCMP781,Skeletonema,marinoi,"Fladenground, North Sea",58.5,0.32,No,WCL3
+CCMP786,Skeletonema,menzelii,collection site unknown,,,No,SM35
+CCMP787,Skeletonema,menzelii,,32.1667,-64.5,No,MEN5
+CCMP790,Skeletonema,menzelii,"Chase Creek, Dennis, Masachusetts USA",41.76,-70.2,No,"ARC1, DW, DWSKEL, ARC2, SK(CC)"
+CCMP813,Asteromonas,gracilis,"Leslie Salt Co. Ponds,San Francisco Bay, California USA (lat long approximate)",37.78,-122.35,No,STGRA
+CCMP826,Helicotheca,tamensis,(lat long very approximate),30.0,-60.0,No,"L85, A85, 85"
+CCMP829,Symbiodinium,tridacnidorum,"Great Barrier Reef, Australia (very approx.)",-20.0,149.0,No,TC1
+CCMP861,Synura,petersenii,"Winters Creek, Keeweenaw County, Michigan USA",47.2917,-88.0721,No,"A7379, A3035"
+CCMP862,Synura,petersenii,"Winters Creek, Keeweenaw County, Michigan USA",47.2917,-88.0721,No,"A7380, A3036, K-1193"
+CCMP863,Synura,petersenii,"near Winter's Creek, Keeweenaw County, Michigan USA",47.2917,-88.0721,No,"A7374, A1198, K-1194"
+CCMP864,Synura,petersenii,"6.3 miles north of Gay, Michigan USA",47.3,-88.05,No,"A1823, K-1195"
+CCMP866,Synura,petersenii,"junction TransCanadian Hwy #1 and Newfoundland Hwy 410, Newfoundland, Canada",49.448,-56.454,No,"A7375, A2079, K-1196"
+CCMP871,Synura,uvella,"Tobacco River, Keeweenaw County, Michigan USA",47.2325,-88.17,No,"A7362, A1190"
+CCMP873,Synura,petersenii_cf,"Bluff Lake, Lake County, Illinois USA (lat long approximate)",42.34,-88.29,No,"A2245, K-1198"
+CCMP874,Chrysotila,elongata,collection site unknown,,,No,SE62
+CCMP875,Chrysotila,sp.,collection site unknown,,,No,"181SYR, Plymouth181"
+CCMP880,Tetraselmis,astigmatica,"Keystone Salt Marsh, Whidbey Island, Washington USA (lat long approximate)",48.225,-122.64,Yes,"UW437, U.of Wash.10-8-54"
+CCMP904,Tetraselmis,suecica,"Bembridge, Isle of Wight, England United Kingdom",50.688,-1.065,No,"UW485, 15-8-114, BC 103/4, CCAP66/22D"
+CCMP975,Thalassiosira,aestivalis,station 855B,42.6706,-69.6,No,"78, DS78B, DS78"
+CCMP988,Thalassiosira,guillardii,Chain St7-edge of Continental Shelf,39.6,-70.1,No,15-Jul
+CCMP991,Bacterosira,constricta,"Chase Creek, Dennis, Masachusetts USA",41.76,-70.2,No,B1
+CCMP995,Thalassiosira,nordenskioldii,"Woods Hole, Massachusetts USA",41.525,-70.6736,No,TNORD
+CCMP997,Thalassiosira,nordenskioldii,"Tromso, Norway",69.6667,18.9667,No,TTN1
+CCMP999,Thalassiosira,oceanica,continental slope,39.0833,-71.9333,No,"K58-102, 58-102"
