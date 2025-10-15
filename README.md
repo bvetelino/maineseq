@@ -44,5 +44,5 @@
 `inline code`
 
 ```bash
-# fenced code block
+# code block
 echo "hello"
